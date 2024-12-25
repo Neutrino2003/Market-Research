@@ -12,6 +12,10 @@ The Competitor Analysis Assistant is a Streamlit-based application that leverage
 - **Business Strategy**: Provide detailed business strategy analysis for the company.
 - **Data Storage**: Store all generated responses in a PostgreSQL database.
 
+  
+## Graph
+![Rag Graph](multi_agent_research_assistant_graph.png)
+
 ## Requirements
 
 - Python 3.8+
@@ -46,7 +50,7 @@ The Competitor Analysis Assistant is a Streamlit-based application that leverage
 
    Use the application:
    ```sh
-      streamlit run Research_Agent.py
+   streamlit run Research_Agent.py
    ```
    Enter the company name in the input field.
    Click the "Submit" button to generate the competitor analysis.
